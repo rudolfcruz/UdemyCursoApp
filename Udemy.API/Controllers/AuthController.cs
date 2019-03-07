@@ -11,8 +11,8 @@ using Udemy.API.Models;
 namespace Udemy.API.Controllers
 {
     [Route("api/[controller]")]
-    //[ApiController]
-    public class AuthController : ControllerBase
+	[ApiController]
+	public class AuthController : ControllerBase
     {
 		private readonly IAuthRepository _repository;
 
@@ -22,11 +22,11 @@ namespace Udemy.API.Controllers
 		}
 
 		[HttpPost("register")]
-		public async Task<IActionResult> Register([FromBody]UserForRegisterDto userForRegisterDto)
+		public async Task<IActionResult> Register(UserForRegisterDto userForRegisterDto)
 		{
 			//validate request
-			if (!ModelState.IsValid)
-				return BadRequest(ModelState);
+			//if (!ModelState.IsValid)
+			//	return BadRequest(ModelState);
 
 			userForRegisterDto.Username = userForRegisterDto.Username.ToLower();
 

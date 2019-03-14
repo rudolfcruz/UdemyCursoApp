@@ -25,3 +25,4 @@ R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.A
 R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.RazorTargetAssemblyInfo.cache
 R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.dll
 R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.pdb
+C:\CustomRudolf\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.csprojAssemblyReference.cache

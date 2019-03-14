@@ -6,18 +6,21 @@ import { map } from 'rxjs/operators'
   providedIn: 'root'
 })
 export class AuthService {
-  baseURL = "http://localhost:5000/api/auth/login";
+  baseURL = "http://localhost:5000/api/auth/";
+
   constructor(private http: HttpClient) { }
+
   login(model: any) {
-
-    return this.http.post(this.baseURL, 'login', model).pipe(
-      map((response: any) => {
-        const user = response;
-        if (user) {
-          localStorage.setItem('token', user.token);
-        }
-
-      })
-    );
+    return this.http.post(this.baseURL + 'login', model)
+      .pipe(
+        map((response: any) => {
+          //const user = response;
+        //if (user) {
+        if (response) {
+            //localStorage.setItem('token', user.token);
+            localStorage.setItem('token', response.token);
+          }
+        })
+      );
   }
 }

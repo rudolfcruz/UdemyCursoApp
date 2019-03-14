@@ -23,7 +23,7 @@ import { from } from 'rxjs';
     FormsModule
   ],
   providers: [
-    AuthService
+    //AuthService
   ],
   bootstrap: [AppComponent]
 })

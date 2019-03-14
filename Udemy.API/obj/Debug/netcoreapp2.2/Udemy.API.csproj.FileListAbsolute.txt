@@ -1,17 +1,3 @@
-R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\bin\Debug\netcoreapp2.2\Udemy.API.deps.json
-R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\bin\Debug\netcoreapp2.2\Udemy.API.runtimeconfig.json
-R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\bin\Debug\netcoreapp2.2\Udemy.API.runtimeconfig.dev.json
-R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\bin\Debug\netcoreapp2.2\Udemy.API.dll
-R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\bin\Debug\netcoreapp2.2\Udemy.API.pdb
-R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.csproj.CoreCompileInputs.cache
-R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.RazorAssemblyInfo.cache
-R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.RazorAssemblyInfo.cs
-R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.AssemblyInfoInputs.cache
-R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.AssemblyInfo.cs
-R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.RazorTargetAssemblyInfo.cache
-R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.dll
-R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.pdb
-R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.csprojAssemblyReference.cache
 C:\CustomRudolf\Udemy.API\bin\Debug\netcoreapp2.2\Udemy.API.deps.json
 C:\CustomRudolf\Udemy.API\bin\Debug\netcoreapp2.2\Udemy.API.runtimeconfig.json
 C:\CustomRudolf\Udemy.API\bin\Debug\netcoreapp2.2\Udemy.API.runtimeconfig.dev.json
@@ -25,3 +11,17 @@ C:\CustomRudolf\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.AssemblyInfo.cs
 C:\CustomRudolf\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.RazorTargetAssemblyInfo.cache
 C:\CustomRudolf\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.dll
 C:\CustomRudolf\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.pdb
+R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\bin\Debug\netcoreapp2.2\Udemy.API.deps.json
+R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\bin\Debug\netcoreapp2.2\Udemy.API.runtimeconfig.json
+R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\bin\Debug\netcoreapp2.2\Udemy.API.runtimeconfig.dev.json
+R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\bin\Debug\netcoreapp2.2\Udemy.API.dll
+R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\bin\Debug\netcoreapp2.2\Udemy.API.pdb
+R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.csprojAssemblyReference.cache
+R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.csproj.CoreCompileInputs.cache
+R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.RazorAssemblyInfo.cache
+R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.RazorAssemblyInfo.cs
+R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.AssemblyInfoInputs.cache
+R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.AssemblyInfo.cs
+R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.RazorTargetAssemblyInfo.cache
+R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.dll
+R:\DESARROLLO .NET\UdemyAspNetCore\Udemy.API\obj\Debug\netcoreapp2.2\Udemy.API.pdb

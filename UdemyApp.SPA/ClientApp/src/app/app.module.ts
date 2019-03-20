@@ -5,17 +5,21 @@ import { FormsModule } from '@angular/forms'
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { ValueComponent } from './value/value.component';
+//import { ValueComponent } from './value/value.component';
 import { NavComponent } from './nav/nav.component';
+import { HomeComponent } from './home/home.component';
 import { AuthService } from './_services/auth.service';
+import { RegisterComponent } from './register/register.component';
 import { HttpClient } from 'selenium-webdriver/http';
 import { from } from 'rxjs';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ValueComponent,
-    NavComponent
+    //ValueComponent,
+    NavComponent,
+    HomeComponent,
+    RegisterComponent
   ],
   imports: [
     BrowserModule,
@@ -23,7 +27,7 @@ import { from } from 'rxjs';
     FormsModule
   ],
   providers: [
-    //AuthService
+    AuthService
   ],
   bootstrap: [AppComponent]
 })

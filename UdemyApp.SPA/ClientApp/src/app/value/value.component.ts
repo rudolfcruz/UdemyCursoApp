@@ -16,17 +16,17 @@ export class ValueComponent implements OnInit {
 
 
   ngOnInit() {
-    this.getValues();
+    //this.getValues();
   }
   
-  getValues() {
+  //getValues() {
 
-    this.http.get('http://localhost:5000/api/Values').subscribe(response => {
-      this.values = response;
-    }, error => {
-      console.log(error);
-    });
-  }
+  //  this.http.get('http://localhost:5000/api/Values').subscribe(response => {
+  //    this.values = response;
+  //  }, error => {
+  //    console.log(error);
+  //  });
+  //}
     
 }
 
